@@ -1,9 +1,9 @@
 # 🌐 Vizinhos.com
 🌍 Leia em outros idiomas
 
-[🇺🇸 English README](./DOCS/README/en/README.md)
+[🇺🇸 English README](./docs/README/en/README.md)
 </br>
-[🇫🇷 Français README](./DOCS/README/fr/README.md)
+[🇫🇷 Français README](./docs/README/fr/README.md)
 ***
 
 ### Uma plataforma para pequenos empreendedores criarem seu próprio site de forma simples, modular e profissional.
@@ -22,13 +22,13 @@ O sistema conta com editor modular, loja/catalogo, blog, landing pages, analytic
 
 `Escolha uma opção para seguir para o conteúdo ideal para o seu perfil:`
 
-[Sou Recrutador](./DOCS/README/pt-br/recrutador.md) </br>
+[Sou Recrutador](./docs/README/pt-br/recrutador.md) </br>
 `Estou analisando o projeto para entender os conhecimentos técnicos do desenvolvedor.`
 
-[Sou Desenvolvedor](./DOCS/README/pt-br/desenvolvedor.md)</br>
+[Sou Desenvolvedor](./docs/README/pt-br/desenvolvedor.md)</br>
 `Quero usar esse código como inspiração ou referência de estudo.`
 
-[Sou Investidor](./DOCS/README/pt-br/investidor.md)</br>
+[Sou Investidor](./docs/README/pt-br/investidor.md)</br>
 `Quero entender o potencial de negócio do Vizinhos.com.`
 
 ***

@@ -2,8 +2,8 @@
 
 🌍 Read in other languages
 
-[🇧🇷 README em Português](./DOCS/README/pt-br/README.md) </br>
-[🇫🇷 Français README](./DOCS/README/fr/README.md)
+[🇧🇷 README em Português](../../../README.md) </br>
+[🇫🇷 Français README](./docs/README/fr/README.md)
 
 ***
 
@@ -25,13 +25,13 @@ The system includes a modular editor, store/catalog, blog, landing pages, analyt
 
 `Choose an option below to access content tailored to your profile:`
 
-[I'm a Recruiter](./DOCS/README/en/recruiter.md) </br>
+[I'm a Recruiter](./docs/README/en/recruiter.md) </br>
 `I'm reviewing this project to evaluate the developer's technical skills.`
 
-[I'm a Developer](./DOCS/README/en/developer.md)</br>
+[I'm a Developer](./docs/README/en/developer.md)</br>
 `I want to use this code as inspiration or as a study reference.`
 
-[I'm an Investor](./DOCS/README/en/investor.md)</br>
+[I'm an Investor](./docs/README/en/investor.md)</br>
 `I want to understand the business potential of Vizinhos.com.`
 
 ***
