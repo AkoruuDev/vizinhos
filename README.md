@@ -1,9 +1,9 @@
 # 🌐 Vizinhos.com
 🌍 Leia em outros idiomas
 
-[🇺🇸 English README](./docs/README/en/README.md)
+[🇺🇸 English README](https://github.com/AkoruuDev/vizinhos/blob/main/docs/README/en/README.md)
 </br>
-[🇫🇷 Français README](./docs/README/fr/README.md)
+[🇫🇷 Français README](https://github.com/AkoruuDev/vizinhos/blob/main/docs/README/fr/README.md)
 ***
 
 ### Uma plataforma para pequenos empreendedores criarem seu próprio site de forma simples, modular e profissional.

@@ -2,8 +2,8 @@
 
 🌍 Lire dans d'autres langues
 
-[🇧🇷 README en Portugais](../../../README.md) </br>
-[🇺🇸 English README](./docs/README/en/README.md)
+[🇧🇷 README en Portugais](https://github.com/AkoruuDev/vizinhos/blob/main/README.md) </br>
+[🇺🇸 English README](https://github.com/AkoruuDev/vizinhos/blob/main/docs/README/en/README.md)
 
 ***
 
