@@ -1,73 +1,46 @@
-# React + TypeScript + Vite
+# 🌐 Vizinhos.com
+🌍 Leia em outros idiomas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[🇺🇸 English README](./DOCS/README/en/README.md)
+</br>
+[🇫🇷 Français README](./DOCS/README/fr/README.md)
+***
 
-Currently, two official plugins are available:
+### Uma plataforma para pequenos empreendedores criarem seu próprio site de forma simples, modular e profissional.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Acesse o site aqui]()
+***
 
-## React Compiler
+### 🧭 Sobre o Projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O Vizinhos.com é um sistema modular onde qualquer empreendedor pode criar um site completo através de templates pré criados. O foco é ser simples, acessível e altamente escalável, permitindo que desde um MEI até um pequeno comércio tenha presença digital profissional.
 
-## Expanding the ESLint configuration
+O sistema conta com editor modular, loja/catalogo, blog, landing pages, analytics, integrações e diversos recursos extras.
+***
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### 👤 Quem é você?
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+`Escolha uma opção para seguir para o conteúdo ideal para o seu perfil:`
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+[Sou Recrutador](./DOCS/README/pt-br/recrutador.md) </br>
+`Estou analisando o projeto para entender os conhecimentos técnicos do desenvolvedor.`
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+[Sou Desenvolvedor](./DOCS/README/pt-br/desenvolvedor.md)</br>
+`Quero usar esse código como inspiração ou referência de estudo.`
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+[Sou Investidor](./DOCS/README/pt-br/investidor.md)</br>
+`Quero entender o potencial de negócio do Vizinhos.com.`
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+***
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+### 📬 Contato
+
+Caso ainda tenha alguma dúvida, pode me chamar por qualquer canal abaixo:
+
+[Instagram]()
+
+[LinkedIn]()
+
+[Discord]()
+
+[Email]()
