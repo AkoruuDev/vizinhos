@@ -1,6 +1,6 @@
 function Plans() {
     return (
-        <></>
+        <>Plans</>
     )
 }
 

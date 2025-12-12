@@ -1,6 +1,6 @@
 function ClientContact() {
     return (
-        <></>
+        <>ClientContact</>
     )
 }
 
