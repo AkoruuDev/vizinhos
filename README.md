@@ -5,31 +5,40 @@
 </br>
 [🇫🇷 Français README](https://github.com/AkoruuDev/vizinhos/blob/main/docs/README/fr/README.md)
 ***
-
+### Crie presença digital profissional, mesmo sendo pequeno.
 ### Uma plataforma para pequenos empreendedores criarem seu próprio site de forma simples, modular e profissional.
 
-🔗 [Acesse o site aqui]()
+🔗 [Acesse o site aqui (em breve)]()
 ***
 
 ### 🧭 Sobre o Projeto
 
-O Vizinhos.com é um sistema modular onde qualquer empreendedor pode criar um site completo através de templates pré criados. O foco é ser simples, acessível e altamente escalável, permitindo que desde um MEI até um pequeno comércio tenha presença digital profissional.
-
-O sistema conta com editor modular, loja/catalogo, blog, landing pages, analytics, integrações e diversos recursos extras.
+O Vizinhos.com é uma plataforma modular que permite pequenos empreendedores criarem sites profissionais sem depender de soluções complexas ou caras.
+De MEIs a pequenos comércios locais, o foco é simplicidade, escalabilidade e autonomia digital.
 ***
 
-### 👤 Quem é você?
+### 🎯 Para quem é?
 
-`Escolha uma opção para seguir para o conteúdo ideal para o seu perfil:`
+* Pequenos empreendedores que precisam estar online
+* Desenvolvedores interessados em arquitetura modular moderna
+* Pessoas que acreditam no potencial de soluções digitais locais
+***
 
-[Sou Recrutador](./docs/README/pt-br/recrutador.md) </br>
-`Estou analisando o projeto para entender os conhecimentos técnicos do desenvolvedor.`
+### 👤 Quem está lendo?
 
-[Sou Desenvolvedor](./docs/README/pt-br/desenvolvedor.md)</br>
-`Quero usar esse código como inspiração ou referência de estudo.`
+> Escolha o caminho que faz mais sentido para você:
 
-[Sou Investidor](./docs/README/pt-br/investidor.md)</br>
-`Quero entender o potencial de negócio do Vizinhos.com.`
+**🔍 Sou Recrutador** </br>
+> Quero entender as habilidades técnicas e a maturidade do desenvolvedor. </br>
+> [👉 Ir para o README de Recrutador](./docs/README/pt-br/recrutador.md)
+
+**💻 Sou Desenvolvedor** </br>
+> Quero explorar a stack, arquitetura e decisões técnicas do projeto. </br>
+> [👉 Ir para o README de Desenvolvedor](./docs/README/pt-br/desenvolvedor.md)
+
+**💼 Sou Investidor** </br>
+> Quero entender o problema, o mercado e o potencial de negócio. </br>
+> [👉 Ir para o README de Investidor](./docs/README/pt-br/investidor.md)
 
 ***
 
@@ -37,10 +46,7 @@ O sistema conta com editor modular, loja/catalogo, blog, landing pages, analytic
 
 Caso ainda tenha alguma dúvida, pode me chamar por qualquer canal abaixo:
 
-[Instagram]()
-
-[LinkedIn]()
-
-[Discord]()
-
-[Email]()
+[Instagram]() </br>
+[LinkedIn]() </br>
+[Discord]() </br>
+[Email]() </br>
