@@ -3,6 +3,8 @@
 
 O Vizinhos.com é um projeto autoral em desenvolvimento, criado com o objetivo de explorar e consolidar decisões arquiteturais comuns a produtos reais, como plataformas white-label, sistemas multi-tenant e aplicações escaláveis voltadas a pequenos empreendedores.
 
+O Vizinhos.com não foi criado apenas como um projeto funcional, mas como um exercício de pensamento técnico aplicado a um produto real, desenvolvido de forma independente.
+
 O projeto está em fase de MVP, com foco em estrutura, clareza arquitetural e visão de produto, não apenas em funcionalidades prontas.
 ***
 
@@ -12,7 +14,7 @@ Este projeto foi pensado para demonstrar, na prática:
 * Capacidade de planejamento técnico antes da implementação
 * Pensamento em escalabilidade desde o início
 * Separação clara entre visão de produto e estado atual do desenvolvimento
-* Preocupação com manutenção e organização de código
+* Preocupação com manutenção (manutenibilidade) e organização de código
 * Tomada de decisões considerando usuário final, negócio e tecnologia
 ***
 

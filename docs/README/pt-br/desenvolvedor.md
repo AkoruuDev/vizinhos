@@ -135,7 +135,7 @@ Os dados dos clientes (templates, conteúdo, configurações) serão armazenados
 A estilização da aplicação é feita utilizando TailwindCSS, visando:
 * rapidez no desenvolvimento
 * consistência visual entre templates
-* fácil manutenção e escalabilidade do design system
+* fácil manutenção (manutenibilidade) e escalabilidade do design system
 ***
 
 ### 🧩 Gerenciamento de Estado Global
