@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Home  from "../pages/platform/Home";
-import Plans from "../pages/platform/Plans";
-import Login from "../pages/platform/Login";
+import Home  from "../pages/public/Home";
+import Plans from "../pages/public/Plans";
+import Login from "../pages/public/Login";
 
 import ClientHome from "../pages/client/ClientHome";
 import ClientAbout from "../pages/client/ClientAbout";
