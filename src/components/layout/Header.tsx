@@ -1,5 +1,6 @@
 import icon from "@/assets/icon.png";
 import menu from "@/assets/menu-ico.png";
+import Menu from "./Menu";
 
 function Header() {
     return (
@@ -11,13 +12,7 @@ function Header() {
                     <img src={menu} alt="menu-ico" className="h-12" />
                 </div>
                 <div className="max-[431px]:hidden flex items-center">
-                    <nav>
-                        <ul className="flex gap-4 mx-5">
-                            <li><a href="#">Sobre nós</a></li>
-                            <li><a href="#">Contato</a></li>
-                            <li><a href="#">Planos</a></li>
-                        </ul>
-                    </nav>
+                    <Menu />
                     <button className="mx-2 my-2 py-3 px-6 rounded-3xl border-4 bg-indigo-400 border-indigo-400 font-bold text-neutral-200 hover:bg-neutral-200 hover:text-indigo-400 hover:cursor-pointer ease-linear duration-200">Entrar</button>
                 </div>
             </div>
