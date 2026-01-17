@@ -40,7 +40,7 @@ function ImageComponent({image} : {image: Image}) {
     )
 
     return(
-        <div key={image.id}>
+        <div key={image.id} className="w-full max-h-[450px] overflow-hidden flex items-center">
             {image.link ? (
                 <a href={image.link}>{picture}</a>
             ) : (
