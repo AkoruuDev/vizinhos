@@ -11,7 +11,7 @@ function Home() {
             <Header />
             <main>
                 <Hero />
-                <section>Sobre nós</section>
+                <section className="mt-6">Sobre nós</section>
                 <Ecosystem />
                 <Features />
                 <CTA />

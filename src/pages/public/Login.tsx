@@ -1,6 +1,10 @@
 function Login() {
     return (
-        <>Login</>
+        <>
+            <SignIn />
+            <CreateAccount />
+            <ResetPassword />
+        </>
     )
 }
 
