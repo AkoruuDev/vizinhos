@@ -35,12 +35,12 @@ function ImageComponent({image} : {image: Image}) {
         <picture className="w-full">
             <source media="(min-width: 1024px)" srcSet={image.src.wide} />
             <source media="(min-width: 640px)" srcSet={image.src.landscape} />
-            <img src={image.src.square} alt={image.alt} className="w-full h-auto" />
+            <img src={image.src.square} alt={image.alt} className="w-full h-auto" loading="eager" />
         </picture>
     )
 
     return(
-        <div key={image.id} className="w-full max-h-[450px] overflow-hidden flex items-center">
+        <div className="w-full max-h-[450px] overflow-hidden flex items-center">
             {image.link ? (
                 <a href={image.link}>{picture}</a>
             ) : (
