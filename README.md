@@ -2,13 +2,13 @@
 🌍 Leia em outros idiomas
 
 [🇺🇸 English README](https://github.com/AkoruuDev/vizinhos/blob/main/docs/README/en/README.md)
-</br>
+
 [🇫🇷 Français README](https://github.com/AkoruuDev/vizinhos/blob/main/docs/README/fr/README.md)
 ***
 ### Crie presença digital profissional, mesmo sendo pequeno.
 ### Uma plataforma para pequenos empreendedores criarem seu próprio site de forma simples, modular e profissional.
 
-🔗 [Acesse o site aqui (em breve)]()
+🔗 [Acesse o site aqui (em breve)](https://vizinhos.vercel.app/)
 ***
 
 ### 🧭 Sobre o Projeto
@@ -28,16 +28,22 @@ De MEIs a pequenos comércios locais, o foco é simplicidade, escalabilidade e a
 
 > Escolha o caminho que faz mais sentido para você:
 
-**🔍 Sou Recrutador** </br>
-> Quero entender as habilidades técnicas e a maturidade do desenvolvedor. </br>
+**🔍 Sou Recrutador**
+
+> Quero entender as habilidades técnicas e a maturidade do desenvolvedor.
+> 
 > [👉 Ir para o README de Recrutador](./docs/README/pt-br/recrutador.md)
 
-**💻 Sou Desenvolvedor** </br>
-> Quero explorar a stack, arquitetura e decisões técnicas do projeto. </br>
+**💻 Sou Desenvolvedor**
+
+> Quero explorar a stack, arquitetura e decisões técnicas do projeto.
+> 
 > [👉 Ir para o README de Desenvolvedor](./docs/README/pt-br/desenvolvedor.md)
 
-**💼 Sou Investidor** </br>
-> Quero entender o problema, o mercado e o potencial de negócio. </br>
+**💼 Sou Investidor**
+
+> Quero entender o problema, o mercado e o potencial de negócio.
+>  
 > [👉 Ir para o README de Investidor](./docs/README/pt-br/investidor.md)
 
 ***
@@ -46,7 +52,11 @@ De MEIs a pequenos comércios locais, o foco é simplicidade, escalabilidade e a
 
 Caso ainda tenha alguma dúvida, pode me chamar por qualquer canal abaixo:
 
-[Instagram]() </br>
-[LinkedIn]() </br>
-[Discord]() </br>
-[Email]() </br>
+[Instagram]()
+
+[LinkedIn]()
+
+[Discord]()
+
+[Email]()
+
